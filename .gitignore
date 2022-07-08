@@ -1,5 +1,0 @@
-print("Welcome To Age Test")
-type = input('''Do You Want To Find Your Age(1) Or Birth Year(2)?
- ''')
-if type="1":
- 
